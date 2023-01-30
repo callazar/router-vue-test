@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <main class="absolute">
-   <h1>This an Home page</h1>
+  <main>
+   <h1>This an team page</h1>
   </main>
 </template>
