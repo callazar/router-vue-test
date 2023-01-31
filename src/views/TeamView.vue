@@ -1,9 +1,7 @@
 <script setup>
-
+import Team from "../components/Team.vue"
 </script>
 
 <template>
-  <main>
-   <h1>This an team page</h1>
-  </main>
+  <Team />
 </template>

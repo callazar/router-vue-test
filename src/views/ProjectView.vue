@@ -1,9 +1,7 @@
 <script setup>
-
+import Project from "../components/Project.vue"
 </script>
 
 <template>
-  <main>
-   <h1>This an Project page</h1>
-  </main>
+  <Project />
 </template>
